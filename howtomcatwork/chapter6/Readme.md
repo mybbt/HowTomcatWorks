@@ -1,0 +1,7 @@
+1. SimpleContext新增Lifecycle接口,类中引用了LifecycleSupport实例以及增加了一个布尔变量started,标志SimpleContext是否启动
+
+2. SimpleLoader新增Lifecycle接口
+
+3. SimplePipeline新增Lifecycle接口
+
+4. SimpleWrapper新增Lifecycle接口,类中引用了LifecycleSupport实例以及增加了一个布尔变量started,标志SimpleWrapper是否启动
