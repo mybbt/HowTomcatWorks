@@ -1,0 +1,3 @@
+1. conf文件夹存放的用户信息
+
+2.Bootstrap1是直接将用户信息放入代码中（使用的是SimpleRealm类），而Bootrstrap2是读取XMl文件获取用户信息（使用的是SimpleUserDatabaseRealm类）
